@@ -10,7 +10,7 @@ lessons = [
     {
         "title": "Request Library Course",
         "course": "Python",
-        "author": "Mohssine",
+        "author": "Mohssine-Amine",
         "thumbnail": "thumbnail.jpg",
     },
     {
